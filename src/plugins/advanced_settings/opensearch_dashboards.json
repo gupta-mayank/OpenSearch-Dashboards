@@ -2,7 +2,7 @@
   "id": "advancedSettings",
   "version": "opensearchDashboards",
   "server": true,
-  "ui": true,
+  "ui": false,
   "requiredPlugins": ["management"],
   "optionalPlugins": ["home"],
   "requiredBundles": ["opensearchDashboardsReact", "home"]
